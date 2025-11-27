@@ -3,6 +3,7 @@
 A fully functional Flutter Weather App that fetches real-time weather data using the OpenWeatherMap API.
 The app shows current weather, hourly forecast, icons, and has a clean, responsive UI.
 
+
 🚀 Features
 ✅ Current Weather:
 
@@ -54,16 +55,27 @@ Clean, minimal, responsive UI
 
 State-managed API integration
 
+
 📱 Screenshots:
+
+
 <img width="394" height="832" alt="Screenshot 2025-11-27 205324" src="https://github.com/user-attachments/assets/5f88656a-2ce7-4ed8-8bfe-3abe973f0b18" />
 
+
 🛠️ Tech Stack:
-Technology   	  Purpose
-Flutter      	  UI + Logic
-Dart         	  Programming language
-http            package	API calls
-intl	          Date/Time formatting
-OpenWeatherMap  API	Weather data
+
+Technology:
+
+Flutter: UI + Logic
+
+Dart: Programming language
+
+http: package	API calls
+
+intl: Date/Time formatting
+
+OpenWeatherMap: API	Weather data
+
 
 📡 API Used:
 
@@ -73,10 +85,14 @@ Current Weather
 
 5-Day / 3-Hour Forecast
 
+
 📦 Installation & Setup:
 git clone https://github.com/guptasandesh/Weather_Forecasting_App.git
+
 cd Weather_Forecasting_App
+
 flutter pub get
+
 flutter run
 
 🔧 Configuration:
@@ -88,6 +104,7 @@ const apiKey = "YOUR_API_KEY";
 
 You can get a free API Key from:
 https://openweathermap.org/api
+
 
 📚 What I Learned:
 
@@ -117,8 +134,11 @@ Async programming with Future and await
 
 Refreshing UI with stateful widgets
 
+
 📄 License:
 
 This project is open-source and free to use.
+
+
 
 ⭐ If this helped, consider starring the repository!
